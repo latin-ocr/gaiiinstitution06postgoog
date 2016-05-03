@@ -1,0 +1,46 @@
+504 DE ACTIONIBUS. [w. ἕξ 18-20.
+
+(c) The ground to support any given condictio or actio stricti juris
+is precisely defined: whereas an actio ex bona fide, e. g. an actio
+empti or venditi, cannot only be brought on the principal contract
+—emptio venditio—for which it is appropriate but also on any
+accessory conventions (pacta adjecta) and on any attendant circum·
+stauces of fraud (dolus) or intimidation (metus). In the later law,
+however, contemporaneous conventions were treated as integral por-
+tions of the contracte of jus strictum: Pacta incontinenti facta
+stipulationi inesse creduntur, Dig. 12, 1, 40. Accordingly interest
+as well as principal could be recovered in an aetion (incerti con·
+dictio) on a stipulatio to pay a certain sum with an annexed
+convention to pay interest at a certain rate. In the same way
+accessory conventions coaleseed into a single coutract when
+annexed to a loan: Omnia quae inseri stipulationibus munt,
+eadem possunt etiam numerationi pecuniae et ideo et conditiones,
+Dig. 12, 1, 7. In the case of a loan of money, however, interest
+could not be recovered on a oontemporaneous convention because
+the only action a loan of money could support was condictio certi:
+on a loan of any other quantitas but money, interest could be re-
+covered because the aetion such a contract would support was
+condictio incerti, Cod. 4, 32, 23. Savigny, ᾗ 268.
+
+(d) The Defeuce in an actio stricti juris could only alleg-e matters
+which ipso jure extinguished or annihilated a claim (e. g. solutio,
+acceptilatio, novatio), or, if they founded a counter-claim of the
+defendant, had been disclosed to the praetor in the preliminary
+pleadings (in jure) in the form of an exceptio: whereas the arbiter
+who tried an actio ex bona fide could consider any counter-obliga-
+tions of the plaintiff even when they were averred for the first
+time in the course of the trial: Exceptio doli bonae fidei judiciis
+inest, Dig. 23, 3, 21.
+
+(e) In respect of the accessione (omnis causa) in which a defendant
+was condemned, namely fruetus and usurae, there was a difference
+between actiones stricti juris and ex bona fide: in the former the de·
+fendant was only liable to pay these from the date of Litis contestatio;
+whereas in the latter he was liable from the date of Mora, 2 ξ 280.
+
+(f) As all condemnations under the formulary system were in
+pecuniary damages it was necessary in the event ofa condemnation
+that the thing in dispute should be valued in money. In actions
+stricti juris the moment fixed for the valuation (aestimatio) was
+Litis contestatio: in bonae fidei actions the date of valuation was
+
